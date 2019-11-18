@@ -17,11 +17,6 @@
 #include <map>
 #include <time.h>
 
-struct Client
-{
-	int type;
-};
-
 int main()
 {
 	const int T = 120;
