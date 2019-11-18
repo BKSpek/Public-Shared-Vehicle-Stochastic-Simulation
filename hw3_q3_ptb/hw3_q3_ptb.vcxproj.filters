@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hw3_q3_b.cpp">
+    <ClCompile Include="hw3_q3_ptb.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
