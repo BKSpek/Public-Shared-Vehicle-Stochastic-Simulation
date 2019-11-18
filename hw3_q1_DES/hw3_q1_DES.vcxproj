@@ -23,7 +23,7 @@
     <ProjectGuid>{9774EC54-5064-4F4F-9392-08B73BC50468}</ProjectGuid>
     <RootNamespace>hw3q1DES</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
-    <ProjectName>hw3_q1_DES_no_queue</ProjectName>
+    <ProjectName>hw3_q1_RETROSPECTIVE_no_aggregate_no_queue</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
