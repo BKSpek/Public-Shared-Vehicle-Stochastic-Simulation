@@ -22,11 +22,6 @@
 #include <queue>
 #include <time.h>
 
-struct Client
-{
-	int type;
-};
-
 int main()
 {
 	const int T = 120;
