@@ -20,10 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{D667EB4A-12E3-41A2-AE83-1FC57296A344}</ProjectGuid>
-    <RootNamespace>SimulationsHW</RootNamespace>
+    <ProjectGuid>{9A9AA21B-FF0A-4B22-9103-490A0815B1D2}</ProjectGuid>
+    <RootNamespace>hw3q1RETROSPECTIVEnoqueue</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
-    <ProjectName>HW3_pt1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -116,7 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="hw3pt1.cpp" />
+    <ClCompile Include="hw3_q1_RETRO_no_queue.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
